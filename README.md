@@ -6,7 +6,7 @@
 - Define the document type tag: `<doctype>`
 - Define the HTML content area with the `<html>`, `<head>`, and `<body>` tags
 - Identify an HTML comment
-- Identify the most-common HTML elements
+- Identify the most common HTML elements
 
 ## Introduction
 
