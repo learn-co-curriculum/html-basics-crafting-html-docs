@@ -175,7 +175,7 @@ with `h1` being the largest and `h6` being the smallest.
 
 These would render as:
 
-![Rendering of Dogs-centric HTML](https://curriculum-content.s3.amazonaws.com/web-development/crafting-html-docs-readme/rendered_example.png)
+![Rendering of Dogs-Centric HTML](https://curriculum-content.s3.amazonaws.com/web-development/crafting-html-docs-readme/rendered_example.png)
 
 In addition to changing how the text is displayed, search engines use headers
 to help determine what a web page is about.
