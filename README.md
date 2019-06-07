@@ -266,3 +266,4 @@ While browsers _generally_ do a great job guessing what you
 meant, we want to follow the guidelines to make sure we don't get any surprises.
 
 Keep practicing!
+
